@@ -496,4 +496,10 @@ body {
     font-weight: bold;
     color: var(--main-color);
 }
+
+@media (max-width: 767px) {
+    .footer {
+        font-size: 16px;
+    }
+}
 /* End Footer */
